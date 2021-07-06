@@ -1,0 +1,4 @@
+npm config list
+//找到prefix那一行的地址
+npm uninstall vue-cli -g
+npm install -g @vue/cli
